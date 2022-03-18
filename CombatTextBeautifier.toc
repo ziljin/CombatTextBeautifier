@@ -1,0 +1,6 @@
+## Author: Возо @ Gordunni
+## Dependencies: Blizzard_CombatText
+## Interface: 90200
+## Title: Combat Text Beautifier
+## Version: 9.2.0.0
+core.lua
